@@ -1,2 +1,2 @@
 # swapp
-trade and barder app
+Trade and Barter app web-view.
